@@ -1,19 +1,17 @@
 ## 14 - JWT Kanban Board Challenge
 
-
-
 ## Table Of Contents
 
-
-
 ## User Story
+
 ```
 AS A member of an agile team
 I WANT a Kanban board with a secure login page
-SO THAT I can securely access and manage my work tasks 
+SO THAT I can securely access and manage my work tasks
 ```
 
 ## Acceptance Criteria
+
 ```
 GIVEN a Kanban board with a secure login page
 WHEN I load the login page
@@ -33,6 +31,7 @@ THEN my session expires, the JWT is invalidated, and I am redirected to the logi
 ```
 
 ## To Do
+
 The starter code provides a complete, working full-stack application without authentication.
 
 You will need to:
