@@ -48,7 +48,7 @@ You will need to:
 
 ✔ Complete the login method in server/src/routes/auth-routes.ts.
 
-Add authentication to the API routes in server/src/routes/index.ts.
+✔ Add authentication to the API routes in server/src/routes/index.ts.
 
 Complete the login method in client/src/api/authAPI.tsx.
 
