@@ -36,13 +36,13 @@ The starter code provides a complete, working full-stack application without aut
 
 You will need to:
 
-Create a .env file for the server that includes:
+✔ Create a .env file for the server that includes:
 
-A username for the database.
+✔ A username for the database.
 
-A password for the database.
+✔ A password for the database.
 
-A secret key for the JWT (this can be any random string).
+✔ A secret key for the JWT (this can be any random string).
 
 Complete the authenticateToken method in server/src/middleware/auth.ts.
 
